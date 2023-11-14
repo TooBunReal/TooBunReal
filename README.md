@@ -1,10 +1,7 @@
 <h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/parthasarathy-g/" target="_blank" rel="noreferrer">parthasarathy</a>
+Hi there, I'm <a href="https://github.com/TooBunReal/" target="_blank" rel="noreferrer">TooBunReal</a>
 </h3>
 
-<h2 align="center">
-I'm a Google cloud  ☁️ Developer | Hacktoberfest winner #hacktoberfest2022✨ | Currently learning #blockchain👨‍💻 | Intrested on #future-📺technology | favorite subject #cybersecurity ♻️ | mobile app📱 Designer 🎨!
-</h2> 
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
