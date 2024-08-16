@@ -8,7 +8,7 @@ Hi there, I'm <a href="https://github.com/TooBunReal/" target="_blank" rel="nore
 - 🌱 I’m currently learning Web Security.
 - 💞️ Redteam wanna beeeee
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d47sec&layout=compact&theme=radical&hide=handlebars,css,scss,html)](https://github.com/TooBunReal)  [![GitHub Streak](https://streak-stats.demolab.com?user=TooBunReal&theme=dracula&hide_border=true&border_radius=5&mode=weekly&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=TooBunReal&theme=dracula&hide_border=true&border_radius=5&mode=weekly&type=png)](https://git.io/streak-stats)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d47sec&layout=compact&theme=radical&hide=handlebars,css,scss,html)](https://github.com/TooBunReal)  
 
 
 
