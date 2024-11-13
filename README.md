@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://github.com/TooBunReal/" target="_blank" rel="nore
 ## ReadMe profile:
 - 👋 Hi, I’m @TooBunReal.
 - 👀 I'm enjoying CTF/web & playing for @return_catbui; & as known as LittleGoat or 4rtorias ( somethin9 ).             
-- 🌱 I’m currently learning Web Security.
+- 🌱 I’m currently learning Web Security and a little bit Mobile Security.
 - 💞️ Redteam wanna beeeee
 <h3 align="center">
   
