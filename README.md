@@ -15,5 +15,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TooBunReal&theme=radical&border_radius=5&card_height=160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TooBunReal&theme=radical&border_radius=5&card_height=160"/>
 </p>
