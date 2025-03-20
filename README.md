@@ -1,13 +1,4 @@
-## 🐐 About Me
-- 👋 Hi, I’m @TooBunReal.
-- 👀 I'm enjoying CTF/web & playing for @return_catbui; known as **LittleGoat** or **4rtorias** (or somethin9).            
-- 🌱 I’m currently learning Web Security and a little bit Mobile Security.
-- 🔴 Redteam wanna beeeee
----
 
-<h3 align="center">
-  📊 GitHub Stats
-</h3>
 
 ## 🐐 About Me
 - 👋 Hi, I’m @TooBunReal.
